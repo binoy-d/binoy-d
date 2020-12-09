@@ -1,6 +1,6 @@
 ![Banner Image](banner.png)
 
-# Hi! I'm Daniel
+# Hi! I'm [Daniel](https://binoy.co)
 ## I'm a developer and CS Student at UC Irvine graduating Fall 2021
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
@@ -27,5 +27,5 @@ I love designing and programming  beautiful, functional applications and interfa
 #### Let's get in touch! Check out my [website][website], connect on [LinkedIn][linkedin], view my [resume][resume], or send me an [email][email].
 [website]: https://www.binoy.co
 [linkedin]: https://www.linkedin.com/in/binoy-d/
-[resume]: https://www.binoy.co/resume.pdf
+[resume]: https://www.binoy.co/files/resume.pdf
 [email]: mailto:dbinoy15@gmail.com
