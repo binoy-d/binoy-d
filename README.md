@@ -5,9 +5,9 @@
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
 ## 👨🏾‍💻 What I'm doing: 
-[**ICSSC**][icssc]: Member of ICS Student Council Project Commitee working on rebuilding zotistics.com, a grade distribution visualization tool, in React.
+[**ICSSC**][icssc]: Member of ICS Student Council Project Commitee working on rebuilding zotistics.com, a grade distribution visualization tool
 
-[**Curicular**][curicular]: Currently redesigning and optimizing the curicular.com website for faster load times and better customer retention as a Web Developer/UI Design Intern
+[**Curicular**][curicular]: Currently redesigning and optimizing the curicular.com website as a Web Developer/UI Design Intern
 
 [**KTBYTE**][ktbyte]: Teaching Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
 
