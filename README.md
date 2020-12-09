@@ -1,15 +1,24 @@
-## Hi! I'm Daniel, a developer and 2nd-year CS Student at UC Irvine.
-
+# Hi! I'm Daniel
+## I'm a developer and CS Student at UC Irvine graduating fall 2021
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
-### 👨🏾‍💻 What I'm doing: 
- - ICSSC : In the ICS Student Council Project Committee, I am working on rebuilding zotistics.com, a grade distribution visualization tool, in React
- - Curicular: Currently redesigning and optimizing the curicular.com website for faster load times and better customer retention as a Web Developer/UI Design Intern
- - KTBYTE: I teach Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
- - Badger Meter: Will be starting as a Software Enginnering Intern in Jan 2021, working with Python, React, and AWS
- - Personal Projects: I'm always working on my own little projects and maintaining past projects. Check out my commits!
+## 👨🏾‍💻 What I'm doing: 
+### ICSSC:
+Member of ICS Student Council Project Commitee working on rebuilding zotistics.com, a grade distribution visualization tool, in React.
+
+### Curicular:
+Currently redesigning and optimizing the curicular.com website for faster load times and better customer retention as a Web Developer/UI Design Intern
+
+### KTBYTE:
+Teaching Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
+
+### Badger Meter: 
+Starting as a Software Enginnering Intern in Jan 2021, working with Python, React, and AWS
+
+### Personal Projects: 
+I'm always working on my own little projects and maintaining past projects. Check out my commits!
  
-### ⚡ Things I love:
+## ⚡ Things I love:
  - Programming 
  - Longboarding
  - Film / Filmmaking / Video Editing
