@@ -1,5 +1,5 @@
 # Hi! I'm Daniel
-## I'm a developer and CS Student at UC Irvine graduating fall 2021
+## I'm a developer and CS Student at UC Irvine graduating Fall 2021
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
 ## 👨🏾‍💻 What I'm doing: 
