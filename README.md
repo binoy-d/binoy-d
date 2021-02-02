@@ -19,7 +19,6 @@ I love designing and programming  beautiful, functional applications and interfa
  - Programming 
  - Longboarding
  - Film / Filmmaking / Video Editing
- - Old School Hip Hop / Trap
  - Chess
  - Dark Mode!!
  - Mechanical Keyboards
