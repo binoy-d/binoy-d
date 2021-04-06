@@ -5,13 +5,12 @@
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
 ## 👨🏾‍💻 What I'm doing: 
+
+[**Badger Meter**][badgermeter]: Working as a Software Engineering Intern to fix bugs and add features to Badger Meter products
+
 [**ICSSC**][icssc]: Member of ICS Student Council Project Commitee working on revamping [Zotistics][zotistics], a grade distribution visualization tool
 
-[**Curicular**][curicular]: Currently redesigning and optimizing the curicular.com website as a Web Developer/UI Design Intern
-
 [**KTBYTE**][ktbyte]: Teaching Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
-
-[**Badger Meter**][badgermeter]: Starting as a Software Engineering Intern in Jan 2021, working with Python, React, and AWS
 
 [**Personal Projects**][website]: I'm always working on my own little projects and maintaining past projects. Check out my commits!
  
