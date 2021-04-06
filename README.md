@@ -11,7 +11,7 @@ I love designing and programming  beautiful, functional applications and interfa
 
 [**KTBYTE**][ktbyte]: Teaching Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
 
-[**Badger Meter**][badgermeter]: Starting as a Software Enginnering Intern in Jan 2021, working with Python, React, and AWS
+[**Badger Meter**][badgermeter]: Starting as a Software Engineering Intern in Jan 2021, working with Python, React, and AWS
 
 [**Personal Projects**][website]: I'm always working on my own little projects and maintaining past projects. Check out my commits!
  
