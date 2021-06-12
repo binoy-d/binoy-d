@@ -12,7 +12,7 @@ I love designing and programming  beautiful, functional applications and interfa
 
 [**KTBYTE**][ktbyte]: Teaching Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
 
-[**Personal Projects**][website]: I'm always working on my own little projects and maintaining past projects. Check out my commits!
+[**Personal Projects**][https://binoy.co/#projects]: I'm always working on my own little projects and maintaining past projects. Check out my commits!
  
 ## ⚡ Things I love:
  - Programming 
