@@ -4,13 +4,13 @@
 ## I'm a software engineer with a BS in Computer Science from UC Irvine
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
-## 👨🏾‍💻 What I'm doing: 
+## 👨🏾‍💻 Experience: 
 
-[**Badger Meter**][badgermeter]: Working as a Software Engineering Intern to fix bugs and add features to Badger Meter products
+[**Badger Meter**][badgermeter]: Worked as a Software Engineering Intern to fix bugs and add features to Badger Meter products
 
-[**ICSSC**][icssc]: Member of ICS Student Council Project Commitee working on revamping [Zotistics][zotistics], a grade distribution visualization tool
+[**ICSSC**][icssc]: Was member of ICS Student Council Project Commitee, as well as Project Lead working on revamping [Zotistics][zotistics], a grade distribution visualization tool
 
-[**KTBYTE**][ktbyte]: Teaching Processing and Java remotely to kids from ages 8 to 17 and help develop/refine curicula
+[**KTBYTE**][ktbyte]: Taught Processing and Java remotely to children from ages 8 to 17 and helped develop/refine curicula
 
 [**Personal Projects**][projects]: I'm always working on my own little projects and maintaining past projects. Check out my commits!
  
