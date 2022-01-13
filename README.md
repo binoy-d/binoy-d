@@ -25,6 +25,7 @@ I love designing and programming  beautiful, functional applications and interfa
 #### Let's get in touch! Check out my [website][website], connect on [LinkedIn][linkedin], view my [resume][resume], or send me an [email][email].
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=binoy-d)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.binoy.co
 [linkedin]: https://www.linkedin.com/in/binoy-d/
