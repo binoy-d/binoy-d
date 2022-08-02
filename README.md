@@ -1,8 +1,8 @@
 [![Banner Image](banner.png)](https://binoy.co)
 
 # Hi, I'm Daniel!
-## I'm a software engineer at [Badger Meter](https://www.badgermeter.com/)
-I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
+## I'm a Software Engineer at [Badger Meter](https://www.badgermeter.com/)
+I love creating beautiful, functional code that has a real impact on users. Connect with me to make something great, together! 
 
 ## 👨🏾‍💻 Experience: 
 
