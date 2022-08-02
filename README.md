@@ -1,7 +1,7 @@
 [![Banner Image](banner.png)](https://binoy.co)
 
 # Hi, I'm Daniel!
-## I'm a software engineer with a BS in Computer Science from UC Irvine
+## I'm a software engineer at [Badger Meter](https://www.badgermeter.com/)
 I love designing and programming  beautiful, functional applications and interfaces that have a real impact on users. Whether its writing code, filming videos, or creating art, I'm always making something. Connect with me to make something great, together! 
 
 ## 👨🏾‍💻 Experience: 
