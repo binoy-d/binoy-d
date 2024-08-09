@@ -1,12 +1,9 @@
-[![Banner Image](banner.png)](https://binoy.co)
 
 # Hi, I'm Daniel!
 ## I'm a Software Engineer at [Badger Meter](https://www.badgermeter.com/)
 I love creating beautiful, functional code that has a real impact on users. Connect with me to make something great, together! 
 
-## 👨🏾‍💻 Experience: 
-
-[**Badger Meter**][badgermeter]: Worked as a Software Engineering Intern to fix bugs and add features to Badger Meter products
+## 👨🏾‍💻 Previous Experience: 
 
 [**ICSSC**][icssc]: Was member of ICS Student Council Project Commitee, as well as Project Lead working on revamping [Zotistics][zotistics], a grade distribution visualization tool
 
